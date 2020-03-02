@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3 {
+    text-align: center;
+}
+.orange {
+    background-color: orange;
+    height: 50px;
+    margin: 10px;
+}
+.yellow {
+    height: 250px;
+    background-color: yellow;
+    margin: 10px;
+}
+.blue {
+    background-color: blue;
+    height: 100px;
+    margin: 10px;
+}
+.grey {
+    background-color: grey;
+    height: 100px;
+    margin: 10px;
+}
